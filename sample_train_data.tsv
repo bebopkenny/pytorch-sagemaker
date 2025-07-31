@@ -1,0 +1,16 @@
+source	mt	reference	score
+The cat is sitting on the mat.	El gato está sentado en la alfombra.	El gato está sentado sobre la alfombra.	0.85
+I love eating pizza.	Me encanta comer pizza.	Me encanta comer pizza.	1.0
+The weather is nice today.	El clima está agradable hoy.	El tiempo está hermoso hoy.	0.75
+She reads books every evening.	Ella lee libros cada noche.	Ella lee libros todas las noches.	0.9
+The movie was very interesting.	La película fue muy interesante.	La película fue muy interesante.	1.0
+He drives to work every day.	Él conduce al trabajo todos los días.	Él va en coche al trabajo todos los días.	0.8
+The house is painted blue.	La casa está pintada azul.	La casa está pintada de azul.	0.85
+We went to the beach yesterday.	Fuimos a la playa ayer.	Ayer fuimos a la playa.	0.9
+The dog is running in the park.	El perro está corriendo en el parque.	El perro corre en el parque.	0.88
+I need to buy groceries.	Necesito comprar comestibles.	Necesito comprar víveres.	0.82
+The sun is shining brightly.	El sol está brillando intensamente.	El sol brilla con fuerza.	0.78
+She plays piano beautifully.	Ella toca el piano hermosamente.	Ella toca el piano de manera hermosa.	0.87
+The train arrives at 3 PM.	El tren llega a las 3 PM.	El tren llega a las 15:00.	0.92
+I enjoy listening to music.	Disfruto escuchando música.	Me gusta escuchar música.	0.85
+The flowers smell wonderful.	Las flores huelen maravilloso.	Las flores huelen maravillosamente.	0.88
