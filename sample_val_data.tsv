@@ -1,0 +1,6 @@
+source	mt	reference	score
+The book is on the table.	El libro está en la mesa.	El libro está sobre la mesa.	0.9
+They are going to the store.	Van a la tienda.	Ellos van a la tienda.	0.85
+The car is red and fast.	El coche es rojo y rápido.	El carro es rojo y veloz.	0.82
+She cooks dinner every night.	Ella cocina la cena cada noche.	Ella prepara la cena todas las noches.	0.88
+The children are playing outside.	Los niños están jugando afuera.	Los niños juegan en el exterior.	0.87
